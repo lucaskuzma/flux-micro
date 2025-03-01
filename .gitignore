@@ -1,0 +1,11 @@
+.venv/
+.DS_Store
+*.egg-info/
+data/
+checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+sample_output.png
